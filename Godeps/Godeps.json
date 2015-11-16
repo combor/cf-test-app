@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/combor/cf-test-app",
+	"GoVersion": "go1.5.1",
+	"Deps": []
+}
