@@ -5,7 +5,8 @@ This is simple test application that can be deployed to CloudFoundry. It will di
 
 # How to run it
 
-```git clone ....
-cd ...
+```
+git clone https://github.com/combor/cf-test-app
+cd cf-test-app
 cf push myapp --no-start
 ```
